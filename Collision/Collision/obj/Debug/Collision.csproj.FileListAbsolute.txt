@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\bin\Debug\Collision.exe.config
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\bin\Debug\Collision.exe
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\bin\Debug\Collision.pdb
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\obj\Debug\Collision.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\obj\Debug\Collision.Properties.Resources.resources
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\obj\Debug\Collision.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\obj\Debug\Collision.exe
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\obj\Debug\Collision.pdb
+C:\Users\User\Desktop\PT2Aizhan\Collision\Collision\obj\Debug\Collision.Frame.resources
